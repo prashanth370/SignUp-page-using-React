@@ -23,3 +23,21 @@ A simple React application featuring **Sign Up** and **Sign In** pages with seam
    ```bash
    git clone https://github.com/prashanth370/signup-signin-app.git
    
+2. **Navigate to the Project Directory**:
+   ```bash
+   git clone https://github.com/prashanth370/signup-signin-app.git
+   cd signup-signin-app
+   
+3. **Install Dependencies**:
+   ```bash
+   npm install
+
+4. **Start the Development Server**:
+   ```bash
+   npm start
+   The app will run on http://localhost:3000.
+
+5. **Deployment**
+   ```bash
+   The app is deployed on Vercel. https://signin-page-chi.vercel.app/:
+   Live Demo
