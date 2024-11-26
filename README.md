@@ -17,6 +17,9 @@ A simple React application featuring **Sign Up** and **Sign In** pages with seam
 - CSS
 - Vercel (for deployment)
 
+## Deployment link:
+- The app is deployed on Vercel. https://signin-page-chi.vercel.app/
+
 ## Installation and Setup
 
 1. **Clone the Repository**:
